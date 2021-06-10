@@ -451,7 +451,7 @@ i:before {
 /* Single Banner Image css
 ============================================================================================ */
 .image_banner_area {
-  background: url(../img/blog/single-blog-3.jpg) no-repeat scroll center center;
+  background: #3d3c3e;
   background-size: cover;
 }
 
