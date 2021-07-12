@@ -169,6 +169,13 @@ i:before {
   }
 }
 
+
+@media (max-width: 600px) {
+  .full_header.content-white .float-left .logo img{
+    width: 70%;
+
+  }
+}
 /* End Container Custome Code css
 ============================================================================================ */
 .s_title {
